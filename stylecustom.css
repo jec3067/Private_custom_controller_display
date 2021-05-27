@@ -4,14 +4,6 @@
     width: 1272px;
 }
 
-.custom.disconnected {
-    background: url(stick-assets/disconnected.svgz) no-repeat;
-}
-
-.custom.disconnected div {
-    display: none;
-}
-
 .custom .triggers {
     width: 326px;
     height: 198px;
